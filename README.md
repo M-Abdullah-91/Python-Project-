@@ -2,4 +2,4 @@
 A collection of easy Python small projects to help you improve your programming skills
 
 # Table of Content
-# *Guess the Number Game.
+ 1) Guess the Number Game.
