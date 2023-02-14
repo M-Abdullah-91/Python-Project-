@@ -3,3 +3,4 @@ A collection of easy Python small projects to help you improve your programming 
 
 # Table of Content
  1) Guess the Number Game.
+ 2) snake game
